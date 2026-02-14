@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/immaghzbad/AsemanVPN/releases/download/1.1.5/AsemanVPN-1.1.5-release.apk",
-  "changeLog": "• Fixed various bugs and improved UI\n• Added FAB button for adding subscriptions at the bottom of the Subscriptions page\n• Fixed several bugs in the main Settings page\n• Added new CloudFlare IP Scanner section in Utilities on the main page\n• Replaced Hive storage with faster and easier-to-manage SQLite database\n• Improved UI and added more network information in the Check My IP section"
+  "version": "1.1.8",
+  "url": "https://github.com/immaghzbad/AsemanVPN/releases/download/1.1.8/AsemanVPN-1.1.8-release.apk",
+  "changeLog": "• Added new Cloudflare IP Range Scanner page\n• Improved UI and visual appearance\n• Fixed various bugs\n• User settings and configurations are now saved automatically in the IP Scanner"
 }
